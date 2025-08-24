@@ -57,7 +57,7 @@ export const Header = () => {
                         Login
                     </button>
                     <button className="cursor-pointer lg:hidden  px-6 py-2 mt-2 bg-indigo-500 hover:bg-indigo-600 transition text-white rounded-full text-sm">
-                        Sign Up
+                        Sign Up 
                     </button>
                 </div>
 
