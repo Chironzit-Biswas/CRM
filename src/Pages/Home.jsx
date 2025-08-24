@@ -11,7 +11,7 @@ export const Home = () => {
             <Hero></Hero>
             <SideNote></SideNote>
             <Success></Success>
-            <Blogs></Blogs>
+           
             
             
         </>
