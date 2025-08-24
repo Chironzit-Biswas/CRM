@@ -3,7 +3,7 @@ export const SideNote = () => {
         <>
             <div>
                 <div
-                    className=" bg-gradient-to-b from-[#4C0083] md:grid grid-cols-2 justify-center   items-center to-[#180047] p-8 text-white">
+                    className=" bg-gradient-to-b from-[#4C0083] md:grid grid-cols-2 md:px-[130px] justify-center   items-center to-[#180047] p-8 text-white">
                     
                       <div className={'col-span-1'}>
                            <h1 className={'text-white font-bold text-3xl w-[20px]'}>YOUR ORGANIZATIONAL SCORE</h1>
