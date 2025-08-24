@@ -23,6 +23,7 @@ export const Hero = () => {
                         <div className={'mt-[60px]'}>
                             <img src={image} alt=""/>
                         </div>
+                        
 
                     </div>
 
