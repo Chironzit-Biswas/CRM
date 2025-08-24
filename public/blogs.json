@@ -1,0 +1,39 @@
+
+   [
+    {
+      "name": "TechSphere",
+      "title": "AI Tools That Will Change Freelancing in 2025",
+      "shortDescription": "Exploring how AI-powered platforms are transforming freelancing workflows, from client communication to project delivery.",
+      "category": "Technology",
+      "tags": ["AI", "Freelancing", "Innovation", "Productivity", "Future Trends"]
+    },
+    {
+      "name": "Wander & Wonder",
+      "title": "10 Hidden European Villages You Need to Visit in 2025",
+      "shortDescription": "A curated list of charming, less-traveled villages in Europe where culture, history, and authenticity thrive away from tourist crowds.",
+      "category": "Travel",
+      "tags": ["Europe", "Hidden Gems", "Travel Tips", "Adventure", "2025 Destinations"]
+    },
+    {
+      "name": "Fit & Focused",
+      "title": "Morning Routines That Boost Energy and Focus",
+      "shortDescription": "Discover simple yet powerful morning habits that can enhance mental clarity, productivity, and overall health.",
+      "category": "Health & Fitness",
+      "tags": ["Wellness", "Morning Routine", "Productivity", "Healthy Living", "Fitness"]
+    },
+    {
+      "name": "ByteSized Finance",
+      "title": "How Gen Z Is Reshaping the Stock Market",
+      "shortDescription": "An analysis of how younger investors are leveraging apps, memes, and communities to influence modern finance.",
+      "category": "Finance",
+      "tags": ["Gen Z", "Stock Market", "Investing", "Finance Trends", "Wealth Building"]
+    },
+    {
+      "name": "Taste Trails",
+      "title": "Street Foods Around the World You Must Try",
+      "shortDescription": "A journey through the most iconic and flavorful street foods across Asia, Europe, and Latin America.",
+      "category": "Food",
+      "tags": ["Street Food", "Global Cuisine", "Culture", "Travel Food", "Foodie"]
+    }
+  ]
+

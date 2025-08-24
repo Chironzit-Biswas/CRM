@@ -6,7 +6,7 @@ export const Header = () => {
     const [open, setOpen] =useState(false)
     const myNav=<>
         <NavLink to={'/'}>CRM Self-Assessment</NavLink>
-        <NavLink to={'/'}>The Book</NavLink>
+        <NavLink to={'thebook'}>The Book</NavLink>
         <NavLink to={'/'}>About Empellor CRM</NavLink>
         <NavLink to={'/'}>Resources</NavLink>
     </>
@@ -33,10 +33,10 @@ export const Header = () => {
                 {/*Button Start*/}
                 <div className={'flex gap-2'}>
                     <button className="cursor-pointer hidden md:flex px-8 py-2 bg-indigo-500 hover:bg-indigo-600 transition text-white rounded-xl">
-                        Login
+                       <NavLink to={'/login'}>Login</NavLink>
                     </button>
                     <button className="cursor-pointer hidden md:flex px-8 py-2 text-black outline-1 outline-red-500 rounded-xl ">
-                        Sign Up
+                        <NavLink to={'/signup'}>Sign Up</NavLink>
                     </button>
                 </div>
                 {/*Button End*/}
