@@ -54,10 +54,10 @@ export const Header = () => {
                 <div className={`${open ? 'flex' : 'hidden'} absolute top-[60px] left-0 w-full bg-white shadow-md py-4 flex-col items-start gap-2 px-5 text-sm md:hidden`}>
                     {myNav}
                     <button className="cursor-pointer lg:hidden  px-6 py-2 mt-2 bg-indigo-500 hover:bg-indigo-600 transition text-white rounded-full text-sm">
-                        Login
+                        <NavLink to={'/login'}>Login</NavLink>
                     </button>
                     <button className="cursor-pointer lg:hidden  px-6 py-2 mt-2 bg-indigo-500 hover:bg-indigo-600 transition text-white rounded-full text-sm">
-                        Sign Up 
+                        <NavLink to={'/signup'}>Sign Up</NavLink>
                     </button>
                 </div>
 
