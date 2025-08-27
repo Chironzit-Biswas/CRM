@@ -37,6 +37,7 @@ export default function SinglePost() {
             >
                 Watch Video →
             </a>
+
         </div>
     );
 }
