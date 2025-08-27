@@ -7,8 +7,8 @@ export const Header = () => {
     const myNav=<>
         <NavLink to={'/'}>CRM Self-Assessment</NavLink>
         <NavLink to={'thebook'}>The Book</NavLink>
-        <NavLink to={'/'}>About Empellor CRM</NavLink>
-        <NavLink to={'/'}>Resources</NavLink>
+        <NavLink to={'/aboutempellorcrm'}>About Empellor CRM</NavLink>
+        <NavLink to={'/resources'}>Resources</NavLink>
     </>
    
     return (

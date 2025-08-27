@@ -1,4 +1,4 @@
-import {Tab, TabList, TabPanel, Tabs} from "react-tabs";
+
 import {Login} from "./Login.jsx";
 import {SideNote} from "../components/SideNote.jsx";
 import {Blogs} from "./Blogs.jsx";

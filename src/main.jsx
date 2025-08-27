@@ -11,6 +11,10 @@ import {Login} from "./Pages/Login.jsx";
 import {SignUp} from "./Pages/SignUp.jsx";
 import {TheBook} from "./Pages/TheBook.jsx";
 import {Blogs} from "./Pages/Blogs.jsx";
+import {About_Empellor_CRM} from "./Pages/About_Empellor_CRM.jsx";
+import {Resources} from "./Pages/Resources.jsx";
+import {Readmore} from "./Pages/Readmore.jsx";
+import SinglePost from "./Pages/SinglePost.jsx";
 
 
 const router = createBrowserRouter([
@@ -38,6 +42,18 @@ const router = createBrowserRouter([
             {
                 path:'blogs',
                 element:<Blogs></Blogs>
+            },
+            {
+                path:'aboutempellorcrm',
+                element:<About_Empellor_CRM></About_Empellor_CRM>
+            },
+            {
+                path:'resources',
+                element:<Resources></Resources>
+            },
+            {
+             path:'/post/:id',
+                element:<SinglePost></SinglePost>
             }
         ]
     },
