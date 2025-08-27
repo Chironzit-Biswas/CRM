@@ -13,7 +13,6 @@ import {TheBook} from "./Pages/TheBook.jsx";
 import {Blogs} from "./Pages/Blogs.jsx";
 import {About_Empellor_CRM} from "./Pages/About_Empellor_CRM.jsx";
 import {Resources} from "./Pages/Resources.jsx";
-import {Readmore} from "./Pages/Readmore.jsx";
 import SinglePost from "./Pages/SinglePost.jsx";
 
 
